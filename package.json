@@ -43,7 +43,8 @@
     "react-toastify": "^11.0.5",
     "react-toasty": "^0.0.4",
     "tslib": "^2.8.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "xlsx": "^0.18.5"
   },
   "scripts": {
     "start": "react-scripts start",
